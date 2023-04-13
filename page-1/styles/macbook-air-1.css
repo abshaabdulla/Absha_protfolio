@@ -1,0 +1,457 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 131rem;
+}.macbook-air-1-1NG {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #635985;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ {
+  width: 133.6rem;
+  height: 91.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU {
+  width: 133.6rem;
+  height: 48.3rem;
+  position: absolute;
+  left: 0;
+  top: 16.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU .auto-group-s4h1-9Pv {
+  margin-right: 4.1193rem;
+  box-sizing: border-box;
+  padding: 8.031rem 3.785rem 13.395rem 3.785rem;
+  width: 56.0007rem;
+  height: 37.8253rem;
+  background: linear-gradient(180deg, #855978 0%, rgba(97, 69, 195, 0) 100%);
+  border-radius: 7rem;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU .auto-group-s4h1-9Pv .hello-world-im-absha-abdulla-s-student-developer-qXe {
+  max-width: 41.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU .auto-group-s4h1-9Pv .hello-world-im-absha-abdulla-s-student-developer-qXe .hello-world-im-absha-abdulla-s-student-developer-qXe-sub-0 {
+  font-size: 7rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU .auto-group-s4h1-9Pv .hello-world-im-absha-abdulla-s-student-developer-qXe .hello-world-im-absha-abdulla-s-student-developer-qXe-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU .auto-group-s4h1-9Pv .hello-world-im-absha-abdulla-s-student-developer-qXe .hello-world-im-absha-abdulla-s-student-developer-qXe-sub-2 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-4-dgU .image-1-NC8 {
+  width: 73.48rem;
+  height: 48.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 12.3rem;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz {
+  width: 133.6rem;
+  height: 55.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .rectangle-3-Qec {
+  width: 133.6rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #18122b;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .hire-me-XUL {
+  width: 9rem;
+  height: 3rem;
+  position: absolute;
+  left: 116.1rem;
+  top: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .home-Dc4 {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .about-8U8 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 12.6rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 1.8rem;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .about-8U8 .property-1default-dvg {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 2.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .about-variant2-7L4 {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #b01919;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .skills-zue {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 12.6rem;
+  height: 26.5rem;
+  position: absolute;
+  left: 36.1rem;
+  top: 1.8rem;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .skills-zue .property-1default-Xeg {
+  margin-bottom: 19.6rem;
+  width: 100%;
+  height: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .skills-variant2-zoA {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .contact-6LQ {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 1.8rem;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .contact-6LQ .property-1default-1yA {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 2.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-8g1z-yyJ .group-2-HZz .contact-variant2-XRi {
+  width: 10.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 56.8rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN {
+  width: 100%;
+  height: 181.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .rectangle-10-a96 {
+  width: 200.6056rem;
+  height: 142.3819rem;
+  position: absolute;
+  left: 0;
+  top: 27.1rem;
+  background: linear-gradient(180deg, rgba(99, 89, 133, 0.3199999928) 0%, rgba(12, 8, 25, 0.0900000036) 49.8%, rgba(255, 255, 255, 0) 100%);
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ {
+  box-sizing: border-box;
+  padding: 0.6rem 2.9rem 0.6rem 19.2rem;
+  width: 131rem;
+  height: 23.5rem;
+  position: absolute;
+  left: 0;
+  top: 157.9rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(-180deg, #b5a2f6 -0%, rgba(78, 68, 114, 0) 100%);
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-xbpz-xQY {
+  margin: 3.1rem 3.4rem 3.1rem 0rem;
+  width: 3.8rem;
+  height: calc(100% - 6.2rem);
+  row-gap: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-xbpz-xQY .image-5-GAL {
+  width: 3.7rem;
+  height: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-xbpz-xQY .image-4-QXS {
+  width: 3.8rem;
+  height: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-xbpz-xQY .rectangle-8-Mha {
+  width: 100%;
+  height: 3.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8-bg.png');
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-94if-5da {
+  margin: 3.1rem 39.3rem 3.2rem 0rem;
+  height: calc(100% - 6.3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-94if-5da .item-91-9841926614-Cy6 {
+  margin-bottom: 2.9rem;
+  font-size: 2.7rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-94if-5da .aabs-vPJ {
+  margin: 0rem 0rem 2.4rem 0.1rem;
+  font-size: 3.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .auto-group-94if-5da .abshaabdulla26gmailcom-dYc {
+  font-size: 2.9rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-6-rcQ .image-6-kt8 {
+  margin-bottom: 2rem;
+  width: 21.7rem;
+  height: 20.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 {
+  width: 150.1rem;
+  height: 83rem;
+  position: absolute;
+  left: 0;
+  top: 74.9rem;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .rectangle-7-znU {
+  width: 67.8rem;
+  height: 54.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #635985;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .rectangle-6-wBv {
+  width: 133.6rem;
+  height: 83rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #635985;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .image-3-tN4 {
+  width: 87.3rem;
+  height: 54.6rem;
+  position: absolute;
+  left: 62.8rem;
+  top: 8.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .some-of-my-skills-html-css-java-script-reactjs-php-manga-ojv {
+  width: 52.2rem;
+  height: 51.9rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 5.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .some-of-my-skills-html-css-java-script-reactjs-php-manga-ojv .some-of-my-skills-html-css-java-script-reactjs-php-manga-ojv-sub-0 {
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .some-of-my-skills-html-css-java-script-reactjs-php-manga-ojv .some-of-my-skills-html-css-java-script-reactjs-php-manga-ojv-sub-1 {
+  font-size: 5.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-5-4P2 .frame-1-gak {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 33rem;
+  overflow: hidden;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx {
+  width: 144.5rem;
+  height: 74.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #635985;
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx .rectangle-5-8xY {
+  width: 65.4rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 13.4rem;
+  background: radial-gradient(46.51% 46.51% at 50% 53.49%, #9485f4 0%, rgba(217, 217, 217, 0) 100%);
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC {
+  width: 59.5rem;
+  height: 27.1rem;
+  position: absolute;
+  left: 62.8rem;
+  top: 14.9rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC-sub-0 {
+  font-size: 3.9rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC-sub-1 {
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC .whaana-now-about-me-im-a-bachelor-of-technology-student-at-crescent-institute-of-science-and-technologyupcoming-web-developer-programming-enthusiastand-a-budding-engineer-DUC-sub-2 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.macbook-air-1-1NG .auto-group-6zsy-2dN .group-3-Pzx .image-2-bFn {
+  width: 83rem;
+  height: 45.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
